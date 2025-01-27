@@ -10,5 +10,7 @@ public class Main {
         BasePerson fullTimeEmploy = new FullTimeEmploy("Ivan","Georgiev",35);
         BasePerson student1= new StudentEmploy("Peter","Ivanov",25, fullTimeEmploy);
 
+
+
     }
 }
